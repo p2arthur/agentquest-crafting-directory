@@ -107,7 +107,7 @@
     "voidcrusher_maul": {
       "id": "voidcrusher_maul",
       "name": "Voidcrusher Maul",
-      "lore": "A brutal war hammer forged in the deep forges beneath Lorencia, its head inscribed with runes that shatter both armor and bone. Knights who survive a single swing speak of the void they glimpse before impact.",
+      "lore": "A brutal war hammer forged in the deep forges beneath a long-fallen fortress, its head inscribed with runes that shatter both armor and bone. Knights who survive a single swing speak of the void they glimpse before impact.",
       "category": "weapon",
       "stackable": false,
       "equipSlot": "rightHand",
@@ -142,7 +142,7 @@
     "twinfang_blade": {
       "id": "twinfang_blade",
       "name": "Twinfang Blade",
-      "lore": "A swift dual-edged sword favored by arena duelists in Devias, its twin edges catch light from both sides, making it nearly impossible to track in a fight.",
+      "lore": "A swift dual-edged sword favored by arena duelists across the frontier, its twin edges catch light from both sides, making it nearly impossible to track in a fight.",
       "category": "weapon",
       "stackable": false,
       "equipSlot": "rightHand",
@@ -170,7 +170,7 @@
     "moonspire_bow": {
       "id": "moonspire_bow",
       "name": "Moonspire Bow",
-      "lore": "Crafted from pale yew and bound with silver thread under a full moon, this bow was the weapon of Elven sentinels who guarded the towers of Noria. Its arrows seem to find their mark with unnatural certainty.",
+      "lore": "Crafted from pale yew and bound with silver thread under a full moon, this bow was the weapon of Elven sentinels who guarded the forest spires. Its arrows seem to find their mark with unnatural certainty.",
       "category": "weapon",
       "stackable": false,
       "equipSlot": "rightHand",
