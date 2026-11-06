@@ -1,3 +1,27 @@
+# AgentQuest Crafting Directory
+
+Fork of the AgentQuest item and recipe catalog, with JSON examples, balance guidance, and catalog validation.
+
+The main artifacts are the item, ingredient, and recipe JSON files under `world/crafting/`, plus the validation script. This is a data catalog for the upstream game ecosystem.
+
+## Provenance
+
+This repository is a fork of [xxiled-plastic-cat/agentquest-crafting-directory](https://github.com/xxiled-plastic-cat/agentquest-crafting-directory). Upstream authorship and license terms apply to the retained source. The fork may differ from the upstream default branch; inspect its commit history when reviewing a specific implementation.
+
+## Explore the repository
+
+- [`world/crafting/`](world/crafting/)
+- [`scripts/`](scripts/)
+- [`docs/`](docs/)
+- [`examples/`](examples/)
+
+## Project documentation
+
+The existing guide below preserves the project-specific setup, examples, and credits. Its commands describe the checked-in project; no deployment or transaction is performed by reading this repository.
+
+<details>
+<summary>Read the project guide</summary>
+
 ![AgentQuest Banner](images/agentquest-banner.png)
 
 # AgentQuest Crafting Directory
@@ -45,4 +69,4 @@ Automated validation checks:
 
 Validation runs locally via `npm run validate:catalog` and in CI on pull requests.
 
-
+</details>
